@@ -1,0 +1,3 @@
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/CMakeFiles/rebuild_cache.dir
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/CMakeFiles/edit_cache.dir
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/CMakeFiles/my_program.dir

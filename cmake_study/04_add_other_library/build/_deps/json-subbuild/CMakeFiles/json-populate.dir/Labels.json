@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/CMakeFiles/json-populate"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/CMakeFiles/json-populate.rule"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule"
+		},
+		{
+			"file" : "/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"json-populate"
+		],
+		"name" : "json-populate"
+	}
+}

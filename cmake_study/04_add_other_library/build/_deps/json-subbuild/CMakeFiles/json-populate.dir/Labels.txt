@@ -1,0 +1,14 @@
+# Target labels
+ json-populate
+# Source files and their labels
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/CMakeFiles/json-populate
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/CMakeFiles/json-populate.rule
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/CMakeFiles/json-populate-complete.rule
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-install.rule
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-mkdir.rule
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-download.rule
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-update.rule
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-patch.rule
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-configure.rule
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-build.rule
+/mnt/v1/home/dingkaixing/cmake_study/04_add_other_library/build/_deps/json-subbuild/json-populate-prefix/src/json-populate-stamp/json-populate-test.rule
